@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">008 052 146 UTS GA</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_lokasi_saat_ini">LokasiSaatIni</string>
+    <string name="judul1">Lokasi Saat Ini</string>
+    <string name="judul2">Pencarian Lokasi</string>
+    <string name="judul3">Titik Lokasi Sekarang</string>
+    <string name="judulform">FORM PELAPORAN LOKASI\nKEBAKARAN</string>
+    <string name="ltt">Layanan Tidak Tersedia</string>
+    <string name="gagal">Gagal Mendapatkan Lokasi</string>
+    <string name="tk">Tidak Ditemukan</string>
+    <string name="awal">Lokasi Saat Ini</string>
+    <string name="izd">Maaf, Izin ditolak</string>
+</resources>
